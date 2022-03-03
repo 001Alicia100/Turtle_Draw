@@ -1,0 +1,10 @@
+reculer 20
+repete 20
+avancer 200
+repete 40
+droite 10
+avancer 4
+fin
+avancer 200
+droite 90
+fin
